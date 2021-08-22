@@ -23,7 +23,6 @@ description		: Do it right or not at all.
 baseurl			: ""
 url			: ""
 github_username		: MKDonnelly
-breadcrumbs		: true
 search			: true
 search_full_content	: true
 paginate		: 10
